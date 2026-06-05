@@ -13,7 +13,7 @@ Proyectos orientados a demostrar lógica de programación y fundamentos.
 | Calculadora básica       | Aplicación para practicar lógica de programación y operaciones simples.   | Python      | ✅ Completado | [Ver proyecto](https://github.com/IISergioHidalgoII/calculadora-basica)    |
 | Agenda de contactos      | Gestión simple de contactos con nombre, teléfono y correo.                | Python      | ✅ Completado | [Ver proyecto](https://github.com/IISergioHidalgoII/agenda-contactos)      |
 | Gestor de tareas         | Lista de tareas con opciones de agregar, completar y eliminar.            | Python      | ✅ Completado | [Ver proyecto](https://github.com/IISergioHidalgoII/gestor-tareas)         |
-| Conversor de unidades    | Conversión entre unidades de longitud, peso, temperatura, etc.            | Python      | Pendiente     | [Ver proyecto](https://github.com/IISergioHidalgoII/conversor-unidades)    |
+| Conversor de unidades    | Conversión entre unidades de longitud, peso, temperatura, etc.            | Python      | ✅ Completado | [Ver proyecto](https://github.com/IISergioHidalgoII/conversor-unidades)    |
 | Generador de contraseñas | Herramienta para generar contraseñas seguras con criterios configurables. | Python      | Pendiente     | [Ver proyecto](https://github.com/IISergioHidalgoII/generador-contrasenas) |
 | Ejercicios Python        | Colección de ejercicios y retos para reforzar conceptos de Python.        | Python      | En desarrollo | [Ver proyecto](https://github.com/IISergioHidalgoII/ejercicios-python)     |
 
